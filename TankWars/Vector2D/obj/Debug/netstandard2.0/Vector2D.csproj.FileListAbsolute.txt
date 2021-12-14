@@ -1,0 +1,9 @@
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.deps.json
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfo.cs
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.pdb

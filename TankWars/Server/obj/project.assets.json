@@ -1,0 +1,208 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NetworkController/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/NetworkController.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetworkController.dll": {}
+        }
+      },
+      "ServerController/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "NetworkController": "1.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "Vector2D": "1.0.0",
+          "World": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServerController.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServerController.dll": {}
+        }
+      },
+      "Vector2D/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/Vector2D.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vector2D.dll": {}
+        }
+      },
+      "World/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Vector2D": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/World.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/World.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "NetworkController/1.0.0": {
+      "type": "project",
+      "path": "../NetworkController/NetworkController.csproj",
+      "msbuildProject": "../NetworkController/NetworkController.csproj"
+    },
+    "ServerController/1.0.0": {
+      "type": "project",
+      "path": "../ServerController/ServerController.csproj",
+      "msbuildProject": "../ServerController/ServerController.csproj"
+    },
+    "Vector2D/1.0.0": {
+      "type": "project",
+      "path": "../Vector2D/Vector2D.csproj",
+      "msbuildProject": "../Vector2D/Vector2D.csproj"
+    },
+    "World/1.0.0": {
+      "type": "project",
+      "path": "../World/World.csproj",
+      "msbuildProject": "../World/World.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NetworkController >= 1.0.0",
+      "Newtonsoft.Json >= 12.0.3",
+      "ServerController >= 1.0.0",
+      "Vector2D >= 1.0.0",
+      "World >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Danny\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\Server\\Server.csproj",
+      "projectName": "Server",
+      "projectPath": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\Server\\Server.csproj",
+      "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\Server\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\NetworkController\\NetworkController.csproj": {
+              "projectPath": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\NetworkController\\NetworkController.csproj"
+            },
+            "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\ServerController\\ServerController.csproj": {
+              "projectPath": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\ServerController\\ServerController.csproj"
+            },
+            "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\Vector2D\\Vector2D.csproj": {
+              "projectPath": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\Vector2D\\Vector2D.csproj"
+            },
+            "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\World\\World.csproj": {
+              "projectPath": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\World\\World.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWiJcdQGB+EG7D64/tIr7a/RKC9IT75g7+H3xPIrMfHcxulBBxH3a/eV5zynb+8sXGeF3KmPWGp39wK5zh+gQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danny\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

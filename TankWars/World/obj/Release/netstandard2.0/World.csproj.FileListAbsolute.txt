@@ -1,0 +1,12 @@
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\bin\Release\netstandard2.0\World.deps.json
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\bin\Release\netstandard2.0\World.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\bin\Release\netstandard2.0\World.pdb
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\bin\Release\netstandard2.0\Vector2D.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\bin\Release\netstandard2.0\Vector2D.pdb
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\obj\Release\netstandard2.0\World.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\obj\Release\netstandard2.0\World.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\obj\Release\netstandard2.0\World.AssemblyInfo.cs
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\obj\Release\netstandard2.0\World.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\obj\Release\netstandard2.0\World.csproj.CopyComplete
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\obj\Release\netstandard2.0\World.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\World\obj\Release\netstandard2.0\World.pdb

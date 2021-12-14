@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4of8eu6VQzFvwKN7W1v/vvzBKQP9alnIBD5pqD5zwgKmMcGCGUH/G9dnT/MFQUy0lL3rFGCHUyVKVQ9PYM75sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danny\\Source\\Repos\\uofu-cs3500-fall20\\game-null_game\\TankWars\\GameController\\GameController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danny\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

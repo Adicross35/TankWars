@@ -1,0 +1,16 @@
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\ServerController.deps.json
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\ServerController.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\ServerController.pdb
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\NetworkController.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\World.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\NetworkController.pdb
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\bin\Debug\netstandard2.0\World.pdb
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.AssemblyInfo.cs
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.csproj.CopyComplete
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.dll
+C:\Users\Danny\source\repos\uofu-cs3500-fall20\game-null_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.pdb
